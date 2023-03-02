@@ -1,0 +1,200 @@
+a {
+    text-decoration: none;
+}
+.btn-themgiohang:hover {
+    background-color: rgb(96, 93, 93);
+    color: #fff;
+}
+.btn-themgiohang:active {
+    transform: scale(0.97);
+}
+.btn-themgiohang {
+    font-size: 14px;
+    padding: 4px;
+    outline-color: #ccc;
+    margin: 5px auto 0;
+    width: 100%;
+    display: block;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    border-radius: 3px;
+    color: #333;
+    background-color: #fff;
+    border: 1px solid #ccc;
+}
+.chinhsach {
+    position: relative;
+    float: left;
+    text-align: justify;
+    width: 20%;
+    padding: 0 5px;
+    width: 50% !important;
+}
+.chinhsach ul {
+    padding: 2px 0;
+    line-height: 18px;
+    text-decoration: none;
+}
+
+.giam-gia {
+    border-radius: 3px;
+    display: inline-block;
+    background-color: #ff9601;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: 400;
+    margin-left: 5px;
+    margin-top: -2px;
+    padding: 3px 5px;
+    vertical-align: middle;
+}
+.gia-cu {
+    font-size: 12px;
+    color: #999;
+    text-decoration: line-through;
+    display: block;
+    text-align: left;
+    font-weight: 700;
+}
+
+.gia-moi {
+    font-size: 18px;
+    color: #f00;
+    font-weight: 700;
+    text-align: left;
+}
+.giam-gia:hover {
+    transform: scale(0.97);
+}
+.gia-cu:hover {
+    transform: scale(0.97);
+}
+.hotline {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    top: auto;
+    width: 210px;
+    padding: 5px px;
+    z-index: 9999;
+    border-radius: 5px;
+    color: aliceblue;
+    background-color: red;
+}
+.header a {
+    text-decoration: none;
+}
+.hinhcuoi img {
+    width: 150px;
+}
+
+.sphang-a h6 {
+    list-style-type: none;
+    color: black;
+    padding: 5px;
+    font-size: 17px;
+    height: 40px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    line-height: 18px;
+}
+.sphang-b h6 {
+    list-style-type: none;
+    color: black;
+    padding: 5px;
+    font-size: 17px;
+    height: 40px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    line-height: 18px;
+}
+.formbody a {
+    text-decoration: none;
+}
+.formthanhcongcu {
+    position: fixed;
+    width: 1520px;
+    height: 80px;
+    z-index: 1000;
+}
+.formhang-a a {
+    text-decoration: none;
+    line-height: 36px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+    display: block;
+    color: rgb(0, 0, 0);
+}
+.formhang-b a {
+    text-decoration: none;
+    line-height: 36px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+    display: block;
+    color: rgb(0, 0, 0);
+}
+
+.chinhsach a {
+    text-decoration: none;
+    color: #fff;
+}
+.facebook ul li {
+    list-style-type: none;
+    text-decoration: none;
+}
+.facebook ul li a {
+    list-style-type: none;
+    text-decoration: none;
+    float: left;
+    width: 50px;
+}
+
+.formkhuyenmai .hinhchinh img {
+    position: static;
+}
+.formthanhcongcu a:hover {
+    color: rgb(187, 185, 185);
+}
+.formthanhcongcu a {
+    color: #fff;
+}
+.formbody .colbody:hover {
+    background-color: rgb(151, 141, 141);
+}
+
+img:hover {
+    border-style: groove;
+}
+.btn-timkiem:active {
+    transform: scale(0.8);
+}
+.delay {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    top: auto;
+    width: 210px;
+    padding: 5px px;
+    z-index: 9999;
+
+    color: aliceblue;
+    background-color: rgb(12, 184, 69);
+}
+.chinhsach ul li a:hover {
+    color: #333;
+}
+.icon-end a:hover {
+    background-color: #f00;
+}
+.btn-search-pc:active {
+    transform: scale(0.8);
+}
+.divsp:hover {
+    color: #999;
+}
